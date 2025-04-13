@@ -61,6 +61,14 @@ This repository contains the exercises and mini-projects I’ve completed during
 
 ---
 
+### 🧩 [Combined Practice Projects](./checkpoints-projects)
+
+After completing chapters 1–4, I worked on a series of classic JavaScript challenges — including **FizzBuzz**, **Horoscope**, and a **Leap Year Checker** — to reinforce everything I’d learned about variables, conditionals, and loops.
+
+🧠 **Skills practiced:** loops, control flow, logical operators, `Math.random()`, modulo `%`, and nested conditions
+
+---
+
 ### 5️⃣ [Arrays](./05-arrays)
 
 > 📦 Arrays let us group and manage multiple values in a single variable.  
