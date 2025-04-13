@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0d0737e-9596-4f18-a51e-f844afa109a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2v3vOjj7Xc3OwCt9ItE1nsmmgGE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.03-letter_tree.js.executor": "Run",
+    "Node.js.05-receipt.js.executor": "Run",
+    "Node.js.11-coin_flip.js.executor": "Run",
+    "Node.js.12-good_morning.js.executor": "Run",
+    "Node.js.14-ph_levels.js.executor": "Run",
+    "Node.js.15-magic8_ball.js.executor": "Run",
+    "Node.js.16-air_quality_index.js.executor": "Run",
+    "Node.js.17-RockPapersScissor.js.executor": "Run",
+    "Node.js.18-DuckDuck_Goose.js.executor": "Run",
+    "Node.js.19-luckyNumber.js.executor": "Run",
+    "Node.js.20-noTellLies.js.executor": "Run",
+    "Node.js.21-evenTheOdds.js.executor": "Run",
+    "Node.js.22-basedNumbers.js.executor": "Run",
+    "Node.js.23-fiveBoroughs.js.executor": "Run",
+    "Node.js.24-groceryTrip.js.executor": "Run",
+    "Node.js.25-timesTable.js.executor": "Run",
+    "Node.js.26-musicPlaylist.js.executor": "Run",
+    "Node.js.27-wheresWaldo.js.executor": "Run",
+    "Node.js.28-DNA.js.executor": "Run",
+    "Node.js.LeapYearChecker.js.executor": "Run",
+    "Node.js.fizzBuzz.js.executor": "Run",
+    "Node.js.horoscope.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-letter_tree.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/22.14.0/bin/node" nameIsGenerated="true" path-to-js-file="03-letter_tree.js" working-dir="$PROJECT_DIR$/01-console">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="Node.js.03-letter_tree.js" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0d0737e-9596-4f18-a51e-f844afa109a6" name="Changes" comment="" />
+      <created>1743386542130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743386542130</updated>
+      <workItem from="1743386543181" duration="355000" />
+      <workItem from="1743445700306" duration="1674000" />
+      <workItem from="1744065872428" duration="352000" />
+      <workItem from="1744066311053" duration="4249000" />
+      <workItem from="1744565653527" duration="12459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
